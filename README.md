@@ -44,33 +44,6 @@ The main goals of this project are:
 
 ---
 
-## 🏗️ Project Structure
-
-```text
-HC-06-Complete-Diagnostic-Tool/
-├── .vscode/
-├── include/
-├── lib/
-├── src/
-├── test/
-├── .gitignore
-└── platformio.ini
-```
-
-### Directory Description
-
-| Directory / File | Purpose |
-|---|---|
-| `.vscode/` | VS Code project configuration |
-| `include/` | Header files |
-| `lib/` | Libraries and reusable modules |
-| `src/` | Main source code |
-| `test/` | Test-related code |
-| `.gitignore` | Git ignore rules |
-| `platformio.ini` | PlatformIO project configuration |
-
----
-
 ## 🔍 Diagnostic Philosophy
 
 The diagnostic process follows a layered approach:
